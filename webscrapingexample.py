@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 31 14:12:31 2020
 
-@author: nikit
-"""
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
